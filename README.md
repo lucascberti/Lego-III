@@ -16,3 +16,12 @@ Ex.: X raça, Y aprovação no vestibular
 A seta que desenhamos é CAUSA. Não é uma correlação. É como dizer que "X é parte do Processo Gerador de Dados (PGD) de Y".  
 Ou, contrafactual: Se X não tivesse ocorrido, Y provavelmente também não teria.  
 Ou, intervenção: Se, propositalmente, mudássemos o valor de X, Y provavelmente se alteraria. 
+
+1) Coisas podem ter múltiplas causas
+
+X1, X2, X3 ----> Y
+
+Cada X é uma causa parcial de Y
+
+2) Causas são probabilísticas, ou seja, elas alteram a distribuição.
+
