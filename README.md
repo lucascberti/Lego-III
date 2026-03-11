@@ -25,3 +25,43 @@ Cada X é uma causa parcial de Y
 
 2) Causas são probabilísticas, ou seja, elas alteram a distribuição.
 
+Probabilístico --> incerteza  
+--> Cadeias complexas;  
+--> Fatores inevitavelmente ocasionais;  
+
+### DAGs
+
+Dags são listas de variáveis conectadas por setas!
+
+- Não paramétrico 
+--> Eu não estou especificando a _FORMA FUNCIONAL_
+--> Eu não estou especificando a _DISTRIBUIÇÃO DAS VARIÁVEIS_
+
+### Variáveis
+
+- Observadas vs. não-observada
+
+### IMPORTANTE!
+
+- Setas são sempre unidirecionais!! 
+- Caráter sempre ACÍCLICO nos DAGs!!
+
+
+"É difícil escolher quais setas não criar", o que ajuda a decidir quais setas criar é uma boa revisão sistemática de literatura.
+
+### DICAS
+
+Simplificar a cadeia causal e simplificar as variáveis!
+
+1) Eliminar fatores desimportantes (ligação obscura com Y, ligação muito distente com Y);
+2) Agregar variáveis redundantes ou usar apenas uma delas;
+3) Eliminar irrelevâncias;
+4) Desconsiderar a representação de mediadores se a mediação não é alvo do interesse;
+
+### Relações Triádicas Fundamentais
+
+1) Mediação; X --> M --> Y.
+2) Confusão (confounder); --> Z é um determinante comum de X e Y.
+3) Colisão (collider); X e Y causam algo comum. 
+
+### Caminhos causais
